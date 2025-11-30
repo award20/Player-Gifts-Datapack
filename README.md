@@ -60,3 +60,5 @@ Other Links:
 Modrinth: https://modrinth.com/datapack/player-gifts
 
 Planet Minecraft https://www.planetminecraft.com/data-pack/player-gifts-datapack/
+
+CurseForge: https://legacy.curseforge.com/minecraft/data-packs/player-gifts-datapack
