@@ -56,5 +56,7 @@ Perfect for SMP survival worlds, roleplay servers, and community events.
 If you encounter any issues or have feature requests, feel free to open an Issue or Pull Request.
 
 Other Links:
+
 Modrinth: https://modrinth.com/datapack/player-gifts
+
 Planet Minecraft https://www.planetminecraft.com/data-pack/player-gifts-datapack/
